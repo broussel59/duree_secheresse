@@ -37,3 +37,6 @@ duree_assec_spat <- sf :: st_as_sf(
 
 st_write(duree_assec_spat,
      "output/duree_assec_2021.gpkg")
+
+test<-1
+
